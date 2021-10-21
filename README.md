@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I'm Houlz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center"><strong>A 18 year old Brazilian student</strong></h3>
 
-<img align="center" src="https://i.pinimg.com/originals/1b/58/77/1b58772e23bb5b761ded9aa1d1e1d7e4.gif" />
-
 - 🔭 Working on **Discord Bots**
 - 🧑‍💻 Contributing to **Open Source**
 - 🌱 Learning **JavaScript**
@@ -11,7 +9,8 @@
 <hr>
 
 <h3 align="left">Contact:</h3>
-<a href="https://discord.com/users/206817793075707905" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" alt="Discord Profile" width="50" height="40"/> </a>
+<a href="https://discord.com/users/206817793075707905" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" alt="Discord Profile" width="55" height="40"/> </a>
+<a href="https://linktr.ee/houlz" target="_blank"> <img src="https://img.icons8.com/color/480/linktree.png" alt="Linktree" width="50" height="40"/> </a>
 
 <hr>
 
