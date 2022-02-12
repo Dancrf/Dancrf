@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Houlz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center"><strong>A 18 year old Brazilian student</strong></h3>
 
-- 🔭 Working on **Discord Bots**
+- 🔭 Working on **Discord and WhatsApp Bots**
 - 🧑‍💻 Contributing to **Open Source**
 - 🌱 Learning **JavaScript**
 - ![Views](https://komarev.com/ghpvc/?username=Dancrf)
