@@ -1,14 +1,13 @@
 ## Hello! I'm Houlz ✨
 
-I am a student from Brazil 🇧🇷
+I'm a student from Brazil 🇧🇷
 
-- 👨🏻‍💻 Currently working at [Discord and WhatsApp bots][discord]
+- 👨🏻‍💻 Currently working at Discord and WhatsApp bots.
 
 ### 😎 Stuff I'm good at
 
 <p align="left">
 
-  <!--- Ref: https://github.com/Ileriayo/markdown-badges -->
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
