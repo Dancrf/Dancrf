@@ -1,33 +1,45 @@
-<h1 align="center">Hello! I'm Houlz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center"><strong>A 18 year old Brazilian student</strong></h3>
+## Hello! I'm Houlz ✨
 
-- 🔭 Working on **Discord and WhatsApp Bots**
-- 🧑‍💻 Contributing to **Open Source**
-- 🌱 Learning **JavaScript**
-- ![Views](https://komarev.com/ghpvc/?username=Dancrf)
+I am a student from Brazil 🇧🇷
 
-<hr>
+- 👨🏻‍💻 Currently working at [Discord and WhatsApp bots][discord]
 
-<h3 align="left">Contact:</h3>
-<a href="https://discord.com/users/206817793075707905" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" alt="Discord Profile" width="55" height="40"/> </a>
-<a href="https://linktr.ee/houlz" target="_blank"> <img src="https://img.icons8.com/color/480/linktree.png" alt="Linktree" width="50" height="40"/> </a>
+### 😎 Stuff I'm good at
 
-<hr>
+<p align="left">
 
-<h3>Skills & Tools </h3>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/discord-js/discord-js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"></code>
+  <!--- Ref: https://github.com/Ileriayo/markdown-badges -->
+  [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][go]
+  [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
+  [<img src="https://img.shields.io/badge/redis-%23DA2B20.svg?&style=for-the-badge&logo=redis&logoColor=white"/>][redis]
+  [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][mongodb]
+  [<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>][postgres]
+  [<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>][flutter]
+  [<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>][flask]
+  [<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>][aws]
 
-<hr>
+</p>
 
-![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=Dancrf&show_icons=true&theme=tokyonight&hide=["issues"])
-![streak_Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dancrf&hide_border=true&theme=tokyonight)
+### 📞 Contact me
+
+<p align = "left">
+
+  [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
+  [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord]
+
+</p>
+
+### 📈 GitHub status
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dancrf&show_icons=true&include_all_commits=true&theme=radical" alt="Github stats"/>
+[aws]: https://aws.amazon.com/
+[cooby]: https://cooby.co/
+[flask]: https://flask.palletsprojects.com
+[flutter]: https://flutter.dev
+[github]: https://github.com/Dancrf
+[go]: https://go.dev/
+[discord]: https://discordapp.com/users/206817793075707905
+[mongodb]: https://www.mongodb.com
+[postgres]: https://www.postgresql.org/
+[python]: https://www.python.org
+[redis]: https://redis.io
