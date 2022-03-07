@@ -40,6 +40,16 @@ I'm a student from Brazil 🇧🇷
   
 </p>
 
-### 📈 GitHub status
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📈 GitHub status:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dancrf&show_icons=true&include_all_commits=true&theme=radical" alt="Github stats"/>
+
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
