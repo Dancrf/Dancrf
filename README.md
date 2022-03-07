@@ -4,7 +4,7 @@ I'm a student from Brazil 🇧🇷
 
 - 👨🏻‍💻 Currently working at [Discord and WhatsApp bots](https://discordapp.com/users/206817793075707905).
 
-### 😎 Stuff I'm good at
+### 💫 Stuff I'm good at:
 
 <p align="left">
 
@@ -18,12 +18,12 @@ I'm a student from Brazil 🇧🇷
 
 </p>
 
-### 📞 Contact me
+### 📞 Contact me:
 
 <p align = "left">
 
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/206817793075707905)
+  <a href="https://discordapp.com/users/206817793075707905" <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
 </p>
 
