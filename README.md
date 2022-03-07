@@ -22,11 +22,14 @@ I'm a student from Brazil 🇧🇷
 
 <p align = "left">
   
+<a href="https://github.com/Dancrf/" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  
 <a href="https://discordapp.com/users/206817793075707905" target="_blank">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-
+  
 </p>
 
 ### 📈 GitHub status
