@@ -1,8 +1,14 @@
 ## Hello! I'm Houlz ✨
 
+  <a href="https://github.com/Dancrf" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Dancrf&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
+  
 I'm a student from Brazil 🇧🇷
 
 - 👨🏻‍💻 Currently working at [Discord and WhatsApp bots](https://discordapp.com/users/206817793075707905).
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💫 Stuff I'm good at:
 
@@ -17,6 +23,8 @@ I'm a student from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📞 Contact me:
 
