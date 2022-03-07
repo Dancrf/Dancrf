@@ -2,7 +2,7 @@
 
 I'm a student from Brazil 🇧🇷
 
-- 👨🏻‍💻 Currently working at Discord and WhatsApp bots.
+- 👨🏻‍💻 Currently working at [Discord and WhatsApp bots](aaswefr).
 
 ### 😎 Stuff I'm good at
 
