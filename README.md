@@ -2,7 +2,7 @@
 
 I'm a student from Brazil 🇧🇷
 
-- 👨🏻‍💻 Currently working at [Discord and WhatsApp bots](aaswefr).
+- 👨🏻‍💻 Currently working at [Discord and WhatsApp bots](https://discordapp.com/users/206817793075707905).
 
 ### 😎 Stuff I'm good at
 
@@ -23,7 +23,7 @@ I'm a student from Brazil 🇧🇷
 <p align = "left">
 
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/206817793075707905)
 
 </p>
 
