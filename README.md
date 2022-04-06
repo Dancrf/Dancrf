@@ -1,12 +1,10 @@
 ## Hello! I'm Houlz ✨
+ 
+- 👨🏻‍💻 Currently working at [Discord and WhatsApp bots](https://discordapp.com/users/206817793075707905).
 
-  <a href="https://github.com/Dancrf" target="_blank">
+<a href="https://github.com/Dancrf" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Dancrf&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
-  
-I'm a student from Brazil 🇧🇷
-
-- 👨🏻‍💻 Currently working at [Discord and WhatsApp bots](https://discordapp.com/users/206817793075707905).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
