@@ -1,10 +1,14 @@
-Hi 👋 My name is Houlz
+Hi 👋 I'm Houlz
 ======================
 
 👨🏻‍💻 Currently working at Discord and WhatsApp bots.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * 🧠  I'm learning React
+
+<a href="https://github.com/Dancrf" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Dancrf&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
 
 ### Skills
 
