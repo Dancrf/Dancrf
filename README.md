@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?Dancrf&style=for-the-badge)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dancrf&label=Profile%20views&color=0e75b6&style=flat" alt="dancrf" /> </p>
 <!--
 **Dancrf/Dancrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
